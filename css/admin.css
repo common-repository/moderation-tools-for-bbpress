@@ -1,0 +1,14 @@
+#_bbp_moderation_english_threshold {
+	width: 50px;
+	text-align: right;
+}
+
+.bbp_moderation_custom_option {
+	padding-left: 30px;
+}
+
+.status-pending,
+.striped>tbody>:nth-child(odd).status-pending, 
+ul.striped>:nth-child(odd).status-pending {
+	background-color: #ffffe0;
+}
